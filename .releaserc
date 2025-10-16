@@ -1,6 +1,6 @@
 {
-  "branches": ["main", "dev"],
-  "repositoryUrl": "https://github.com/ChristianPRO1982/semantics2",
+  "branches": ["main", "develop"],
+  "repositoryUrl": "https://github.com/Vellanos/BRIEF_PIPELINE_DATA_ENG",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
