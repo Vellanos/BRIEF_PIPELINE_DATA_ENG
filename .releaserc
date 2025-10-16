@@ -1,5 +1,5 @@
 {
-  "branches": ["main", "develop"],
+  "branches": ["main"],
   "repositoryUrl": "https://github.com/Vellanos/BRIEF_PIPELINE_DATA_ENG",
   "plugins": [
     "@semantic-release/commit-analyzer",
